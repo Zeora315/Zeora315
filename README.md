@@ -1,10 +1,12 @@
-## 👋Hi there ！我是Zeora
+## Hi there，I‘am Zeora ![](https://raw.githubusercontent.com/willow-god/willow-god/refs/heads/main/static/image.gif) 
 
 <h1 align="center">
   <a href="https://zeora.top/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=征服自己，就能征服世界.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeora315&label=Profile%20views&color=0e75b6&style=flat" alt="zeora315" /> </p>
 
