@@ -1,4 +1,5 @@
-## Hi there，I‘am Zeora ![](https://raw.githubusercontent.com/willow-god/willow-god/refs/heads/main/static/image.gif) 
+## Hi there，I‘am Zeora </𝚌𝚘𝚍𝚎𝚛𝚜>!<img src="https://raw.githubusercontent.com/willow-god/willow-god/refs/heads/main/static/image.gif" width="30px" alt="">
+
 
 <h1 align="center">
   <a href="https://zeora.top/">
