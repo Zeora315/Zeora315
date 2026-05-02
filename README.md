@@ -6,4 +6,10 @@
   </a>
 </h1>
 
-![zeora's GitHub stats](https://github-readme-stats.vercel.app/api?zeora315=anuraghazra)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zeora315/zeora315/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zeora315/zeora315/assets/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/zeora315/zeora315/assets/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
