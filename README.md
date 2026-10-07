@@ -25,3 +25,7 @@
 
 - 📫 如何联系我 **mail@315996.xyz**
 
+- 如果这些项目和站点帮到了你，可以请我喝杯咖啡。在[爱发电](https://afdian.com/a/zeora?utm_source=copylink&utm_medium=link)上持续支持
+
+
+
